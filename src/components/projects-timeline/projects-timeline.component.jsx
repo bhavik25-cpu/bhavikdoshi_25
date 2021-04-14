@@ -36,13 +36,13 @@ const TimeLine = () => {
     <div id="projects">
       <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
       <Timeline>
-        <Events>
+        {/* <Events> */}
         {/* Project: Todo List With MUI */}
-        <ImageEvent
+        {/* <ImageEvent
             date="01/10/2020"
             className="text-center"
             text="React ToDo App"
-            src={L_ReactToDoList}
+           // src={L_ReactToDoList}
             alt="React ToDo App"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
@@ -106,7 +106,7 @@ const TimeLine = () => {
                           <li>
                             <span className="p-2">
                               <Image
-                                src={L_MATERIALUI}
+                               // src={L_MATERIALUI}
                                 alt="Material-UI"
                                 rounded
                                 className="image-style1 m-1"
@@ -121,8 +121,8 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton
+              <div className="d-flex justify-content-between flex-nowrap text-center"> */}
+                {/* <UrlButton
                   href="https://akjha96.github.io/Todo-List-React/"
                   target="_blank"
                 >
@@ -139,18 +139,18 @@ const TimeLine = () => {
                   target="_blank"
                 >
                   WATCH VIDEO
-                </UrlButton>
-              </div>
+                </UrlButton> */}
+              {/* </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
 
 {/* Project: MERN Tip Calculator */}
-<ImageEvent
+{/* <ImageEvent
             date="16/09/2020"
             className="text-center"
             text="MERN Tip Calculator"
-            src={L_MernTipCalc}
+           // src={L_MernTipCalc}
             alt="MERN Tip Calculator"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
@@ -240,8 +240,8 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton
+              <div className="d-flex justify-content-between flex-nowrap text-center"> */}
+                {/* <UrlButton
                   href="https://github.com/akjha96/MernTipCaculator-FrontEnd"
                   target="_blank"
                 >
@@ -252,17 +252,17 @@ const TimeLine = () => {
                   target="_blank"
                 >
                   WATCH VIDEO
-                </UrlButton>
-              </div>
+                </UrlButton> */}
+              {/* </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: Get GitHub Info */}
-          <ImageEvent
+          {/* <ImageEvent
             date="19/07/2020"
             className="text-center"
             text="Get GitHub Info"
-            src={L_GetGitHubInfo}
+            //src={L_GetGitHubInfo}
             alt="Get GitHub Info"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
@@ -341,8 +341,8 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton
+              <div className="d-flex justify-content-between flex-nowrap text-center"> */}
+                {/* <UrlButton
                   href="https://akjha96.github.io/getGithubInfo/"
                   target="_blank"
                 >
@@ -359,17 +359,17 @@ const TimeLine = () => {
                   target="_blank"
                 >
                   WATCH VIDEO
-                </UrlButton>
-              </div>
+                </UrlButton> */}
+              {/* </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: Smart Brain */}
-          <ImageEvent
+          {/* <ImageEvent
             date="21/01/2020"
             className="text-center"
             text="Smart Brain Face Detect app"
-            src={L_SmartBrain}
+            //src={L_SmartBrain}
             alt="Smart Brain Face Detect"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
@@ -463,36 +463,36 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton
+              <div className="d-flex justify-content-between flex-nowrap text-center"> */}
+                {/* <UrlButton
                   href="https://smart-face-detect-app.herokuapp.com/"
                   target="_blank"
                 >
                   SEE LIVE
-                </UrlButton>
-                <UrlButton
+                </UrlButton> */}
+                {/* <UrlButton
                   href="https://github.com/akjha96/Smart_Brain"
                   target="_blank"
                 >
                   SOURCE CODE
-                </UrlButton>
-                <UrlButton
+                </UrlButton> */}
+                {/* <UrlButton
                   href="https://www.youtube.com/watch?v=ZZYSpi_blL0"
                   target="_blank"
                 >
                   WATCH VIDEO
-                </UrlButton>
-              </div>
+                </UrlButton> */}
+              {/* </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: RoboFriends */}
 
-          <ImageEvent
+          {/* <ImageEvent
             date="14/01/2020"
             className="text-center"
             text="RoboFriends"
-            src={L_RoboFriends}
+           // src={L_RoboFriends}
             alt="Robo Friends"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
@@ -582,8 +582,8 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton
+              <div className="d-flex justify-content-between flex-nowrap text-center"> */}
+                {/* <UrlButton
                   href="https://akjha96.github.io/RoboFriends/"
                   target="_blank"
                 >
@@ -594,18 +594,18 @@ const TimeLine = () => {
                   target="_blank"
                 >
                   SOURCE CODE
-                </UrlButton>
-              </div>
+                </UrlButton> */}
+              {/* </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: Product_Hunt_Clone */}
 
-          <ImageEvent
+          {/* <ImageEvent
             date="15/12/2019"
             className="text-center"
             text="Product Hunt Clone"
-            src={L_ProductHuntClone}
+           // src={L_ProductHuntClone}
             alt="Product Hunt Clone"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
@@ -698,23 +698,23 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton
+              <div className="d-flex justify-content-between flex-nowrap text-center"> */}
+                {/* <UrlButton
                   href="https://github.com/akjha96/product_hunt_clone"
                   target="_blank"
                 >
                   SOURCE CODE
-                </UrlButton>
-              </div>
+                </UrlButton> */}
+              {/* </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: Portfolio using Django */}
-          <ImageEvent
+          {/* <ImageEvent
             date="07/12/2019"
             className="text-center"
             text="Portfolio using Django"
-            src={L_PortfolioUsingDjango}
+          //  src={L_PortfolioUsingDjango}
             alt="Portfolio using Django"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
@@ -832,14 +832,14 @@ const TimeLine = () => {
                   </Card>
                 </Accordion>
               </div>
-              <div className="d-flex justify-content-between flex-nowrap text-center">
-                <UrlButton href="https://youtu.be/PCwEuW4OmWA" target="_blank">
+              <div className="d-flex justify-content-between flex-nowrap text-center"> */}
+                {/* <UrlButton href="https://youtu.be/PCwEuW4OmWA" target="_blank">
                   WATCH VIDEO
-                </UrlButton>
-              </div>
+                </UrlButton> */}
+              {/* </div>
             </div>
-          </ImageEvent>
-        </Events>
+          </ImageEvent> */}
+        {/* </Events> */}
       </Timeline>
     </div>
   );
