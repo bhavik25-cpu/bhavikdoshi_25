@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css",
-    "main.js": "/bhavikdoshi_25/static/js/main.dbe8e478.chunk.js",
-    "main.js.map": "/bhavikdoshi_25/static/js/main.dbe8e478.chunk.js.map",
+    "main.css": "/bhavikdoshi_25/static/css/main.67c53e6b.chunk.css",
+    "main.js": "/bhavikdoshi_25/static/js/main.725b3bcd.chunk.js",
+    "main.js.map": "/bhavikdoshi_25/static/js/main.725b3bcd.chunk.js.map",
     "runtime-main.js": "/bhavikdoshi_25/static/js/runtime-main.52e78366.js",
     "runtime-main.js.map": "/bhavikdoshi_25/static/js/runtime-main.52e78366.js.map",
-    "static/js/2.04ac3570.chunk.js": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js",
-    "static/js/2.04ac3570.chunk.js.map": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js.map",
+    "static/js/2.4b099508.chunk.js": "/bhavikdoshi_25/static/js/2.4b099508.chunk.js",
+    "static/js/2.4b099508.chunk.js.map": "/bhavikdoshi_25/static/js/2.4b099508.chunk.js.map",
     "index.html": "/bhavikdoshi_25/index.html",
-    "precache-manifest.9e14d5c22f9357b740fc5f5f17c2f029.js": "/bhavikdoshi_25/precache-manifest.9e14d5c22f9357b740fc5f5f17c2f029.js",
+    "precache-manifest.fb2dd201be6d7c2bb81321a546aede36.js": "/bhavikdoshi_25/precache-manifest.fb2dd201be6d7c2bb81321a546aede36.js",
     "service-worker.js": "/bhavikdoshi_25/service-worker.js",
-    "static/css/main.8f630128.chunk.css.map": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css.map",
-    "static/js/2.04ac3570.chunk.js.LICENSE.txt": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js.LICENSE.txt",
+    "static/css/main.67c53e6b.chunk.css.map": "/bhavikdoshi_25/static/css/main.67c53e6b.chunk.css.map",
+    "static/js/2.4b099508.chunk.js.LICENSE.txt": "/bhavikdoshi_25/static/js/2.4b099508.chunk.js.LICENSE.txt",
     "static/media/React_ToDo_List.webp": "/bhavikdoshi_25/static/media/React_ToDo_List.8897aeb6.webp",
     "static/media/Robofriends.webp": "/bhavikdoshi_25/static/media/Robofriends.9730fefc.webp",
     "static/media/Slide1.jpeg": "/bhavikdoshi_25/static/media/Slide1.1d90cfa2.jpeg",
@@ -55,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.52e78366.js",
-    "static/js/2.04ac3570.chunk.js",
-    "static/css/main.8f630128.chunk.css",
-    "static/js/main.dbe8e478.chunk.js"
+    "static/js/2.4b099508.chunk.js",
+    "static/css/main.67c53e6b.chunk.css",
+    "static/js/main.725b3bcd.chunk.js"
   ]
 }

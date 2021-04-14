@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fc477cd3f85fa0703bbb86e5e275395",
+    "revision": "62059c3f888bd2c6f53e1c5eddba857c",
     "url": "/bhavikdoshi_25/index.html"
   },
   {
-    "revision": "a155cbe1af6358a037ee",
-    "url": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css"
+    "revision": "0111149488acf071ad65",
+    "url": "/bhavikdoshi_25/static/css/main.67c53e6b.chunk.css"
   },
   {
-    "revision": "88ac2c0ab0cd34abbc02",
-    "url": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js"
+    "revision": "8c2a3f41579e9680c2fe",
+    "url": "/bhavikdoshi_25/static/js/2.4b099508.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js.LICENSE.txt"
+    "url": "/bhavikdoshi_25/static/js/2.4b099508.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a155cbe1af6358a037ee",
-    "url": "/bhavikdoshi_25/static/js/main.dbe8e478.chunk.js"
+    "revision": "0111149488acf071ad65",
+    "url": "/bhavikdoshi_25/static/js/main.725b3bcd.chunk.js"
   },
   {
     "revision": "e3b3d10ddc30976e3f85",
