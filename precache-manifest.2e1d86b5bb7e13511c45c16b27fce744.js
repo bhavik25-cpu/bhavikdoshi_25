@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff03b97bc3647f9bc7672053132fbc3a",
+    "revision": "8d28f63763b5bb318a4dba78656e6357",
     "url": "/bhavikdoshi_25/index.html"
   },
   {
-    "revision": "a45b9047c6523c778ea9",
+    "revision": "7e43e15e2afd4c68131f",
     "url": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css"
   },
   {
-    "revision": "111f9308d4b3f1c24458",
-    "url": "/bhavikdoshi_25/static/js/2.d8eccec5.chunk.js"
+    "revision": "88ac2c0ab0cd34abbc02",
+    "url": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/bhavikdoshi_25/static/js/2.d8eccec5.chunk.js.LICENSE.txt"
+    "url": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a45b9047c6523c778ea9",
-    "url": "/bhavikdoshi_25/static/js/main.7e04f382.chunk.js"
+    "revision": "7e43e15e2afd4c68131f",
+    "url": "/bhavikdoshi_25/static/js/main.240e3c36.chunk.js"
   },
   {
     "revision": "e3b3d10ddc30976e3f85",
@@ -30,6 +30,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9730fefc26bb187c4f4bb29b95d82e7a",
     "url": "/bhavikdoshi_25/static/media/Robofriends.9730fefc.webp"
+  },
+  {
+    "revision": "1d90cfa2cf1f6b9bf8ac6feef505e779",
+    "url": "/bhavikdoshi_25/static/media/Slide1.1d90cfa2.jpeg"
+  },
+  {
+    "revision": "46487aaf45f9969fc2b80406dfa567b9",
+    "url": "/bhavikdoshi_25/static/media/Slide2.46487aaf.jpeg"
+  },
+  {
+    "revision": "9a043fced2600ebfa92d188d501b8cdb",
+    "url": "/bhavikdoshi_25/static/media/Slide3.9a043fce.jpg"
+  },
+  {
+    "revision": "e83209d2fe11e3f253aee17285692af1",
+    "url": "/bhavikdoshi_25/static/media/Slide4.e83209d2.jpeg"
   },
   {
     "revision": "bf989778565c49da91f9e0ef13dbdc5c",
@@ -158,18 +174,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b446ca5a397c1ef6fb94cd02c4e94335",
     "url": "/bhavikdoshi_25/static/media/sass-1.b446ca5a.svg"
-  },
-  {
-    "revision": "8bce7aef886c3872c218e0e6ef8bdccb",
-    "url": "/bhavikdoshi_25/static/media/slide1.8bce7aef.webp"
-  },
-  {
-    "revision": "7256f309520276be70acd97720610bc6",
-    "url": "/bhavikdoshi_25/static/media/slide2.7256f309.webp"
-  },
-  {
-    "revision": "8e5b87b60151049a8df9ec0bd30978f0",
-    "url": "/bhavikdoshi_25/static/media/slide3.8e5b87b6.webp"
   },
   {
     "revision": "e79a42b9281a3b30f1302d5452f9884f",

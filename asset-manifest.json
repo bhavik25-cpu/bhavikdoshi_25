@@ -1,19 +1,23 @@
 {
   "files": {
     "main.css": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css",
-    "main.js": "/bhavikdoshi_25/static/js/main.7e04f382.chunk.js",
-    "main.js.map": "/bhavikdoshi_25/static/js/main.7e04f382.chunk.js.map",
+    "main.js": "/bhavikdoshi_25/static/js/main.240e3c36.chunk.js",
+    "main.js.map": "/bhavikdoshi_25/static/js/main.240e3c36.chunk.js.map",
     "runtime-main.js": "/bhavikdoshi_25/static/js/runtime-main.52e78366.js",
     "runtime-main.js.map": "/bhavikdoshi_25/static/js/runtime-main.52e78366.js.map",
-    "static/js/2.d8eccec5.chunk.js": "/bhavikdoshi_25/static/js/2.d8eccec5.chunk.js",
-    "static/js/2.d8eccec5.chunk.js.map": "/bhavikdoshi_25/static/js/2.d8eccec5.chunk.js.map",
+    "static/js/2.04ac3570.chunk.js": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js",
+    "static/js/2.04ac3570.chunk.js.map": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js.map",
     "index.html": "/bhavikdoshi_25/index.html",
-    "precache-manifest.a2d064132acd16e19c21588b06fcee22.js": "/bhavikdoshi_25/precache-manifest.a2d064132acd16e19c21588b06fcee22.js",
+    "precache-manifest.2e1d86b5bb7e13511c45c16b27fce744.js": "/bhavikdoshi_25/precache-manifest.2e1d86b5bb7e13511c45c16b27fce744.js",
     "service-worker.js": "/bhavikdoshi_25/service-worker.js",
     "static/css/main.8f630128.chunk.css.map": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css.map",
-    "static/js/2.d8eccec5.chunk.js.LICENSE.txt": "/bhavikdoshi_25/static/js/2.d8eccec5.chunk.js.LICENSE.txt",
+    "static/js/2.04ac3570.chunk.js.LICENSE.txt": "/bhavikdoshi_25/static/js/2.04ac3570.chunk.js.LICENSE.txt",
     "static/media/React_ToDo_List.webp": "/bhavikdoshi_25/static/media/React_ToDo_List.8897aeb6.webp",
     "static/media/Robofriends.webp": "/bhavikdoshi_25/static/media/Robofriends.9730fefc.webp",
+    "static/media/Slide1.jpeg": "/bhavikdoshi_25/static/media/Slide1.1d90cfa2.jpeg",
+    "static/media/Slide2.jpeg": "/bhavikdoshi_25/static/media/Slide2.46487aaf.jpeg",
+    "static/media/Slide3.jpg": "/bhavikdoshi_25/static/media/Slide3.9a043fce.jpg",
+    "static/media/Slide4.jpeg": "/bhavikdoshi_25/static/media/Slide4.e83209d2.jpeg",
     "static/media/background.webp": "/bhavikdoshi_25/static/media/background.bf989778.webp",
     "static/media/contact-form.styles.css": "/bhavikdoshi_25/static/media/background.e95d0563.webp",
     "static/media/bootstrap-4.svg": "/bhavikdoshi_25/static/media/bootstrap-4.ffded238.svg",
@@ -46,16 +50,13 @@
     "static/media/react.svg": "/bhavikdoshi_25/static/media/react.4009eef3.svg",
     "static/media/redux.svg": "/bhavikdoshi_25/static/media/redux.aa0a3376.svg",
     "static/media/sass-1.svg": "/bhavikdoshi_25/static/media/sass-1.b446ca5a.svg",
-    "static/media/slide1.webp": "/bhavikdoshi_25/static/media/slide1.8bce7aef.webp",
-    "static/media/slide2.webp": "/bhavikdoshi_25/static/media/slide2.7256f309.webp",
-    "static/media/slide3.webp": "/bhavikdoshi_25/static/media/slide3.8e5b87b6.webp",
     "static/media/styled-components.svg": "/bhavikdoshi_25/static/media/styled-components.e79a42b9.svg",
     "static/media/typescript.svg": "/bhavikdoshi_25/static/media/typescript.3de182d2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.52e78366.js",
-    "static/js/2.d8eccec5.chunk.js",
+    "static/js/2.04ac3570.chunk.js",
     "static/css/main.8f630128.chunk.css",
-    "static/js/main.7e04f382.chunk.js"
+    "static/js/main.240e3c36.chunk.js"
   ]
 }
