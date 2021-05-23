@@ -36,9 +36,9 @@ const TimeLine = () => {
     <div id="projects">
       <h1 className="pt-3 text-center font-details-b pb-3">PROJECTS</h1>
       <Timeline>
-        <Events>
-        {/* Project: Todo List With MUI */}
-        <ImageEvent
+        {/* <Events> */}
+          {/* Project: Todo List With MUI */}
+          {/* <ImageEvent
             date="01/10/2020"
             className="text-center"
             text="React ToDo App"
@@ -114,7 +114,7 @@ const TimeLine = () => {
                               Material-UI
                             </span>
                           </li>
-                          
+
                         </ul>
                       </Card.Body>
                     </Accordion.Collapse>
@@ -141,12 +141,12 @@ const TimeLine = () => {
                   WATCH VIDEO
                 </UrlButton>
               </div>
-            </div>
-          </ImageEvent>
+            </div> */}
+          {/* </ImageEvent> */}
 
 
-{/* Project: MERN Tip Calculator */}
-<ImageEvent
+          {/* Project: MERN Tip Calculator */}
+          {/* <ImageEvent
             date="16/09/2020"
             className="text-center"
             text="MERN Tip Calculator"
@@ -255,10 +255,10 @@ const TimeLine = () => {
                 </UrlButton>
               </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: Get GitHub Info */}
-          <ImageEvent
+          {/* <ImageEvent
             date="19/07/2020"
             className="text-center"
             text="Get GitHub Info"
@@ -362,10 +362,10 @@ const TimeLine = () => {
                 </UrlButton>
               </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: Smart Brain */}
-          <ImageEvent
+          {/* <ImageEvent
             date="21/01/2020"
             className="text-center"
             text="Smart Brain Face Detect app"
@@ -484,11 +484,11 @@ const TimeLine = () => {
                 </UrlButton>
               </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: RoboFriends */}
 
-          <ImageEvent
+          {/* <ImageEvent
             date="14/01/2020"
             className="text-center"
             text="RoboFriends"
@@ -597,11 +597,11 @@ const TimeLine = () => {
                 </UrlButton>
               </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: Product_Hunt_Clone */}
 
-          <ImageEvent
+          {/* <ImageEvent
             date="15/12/2019"
             className="text-center"
             text="Product Hunt Clone"
@@ -707,10 +707,10 @@ const TimeLine = () => {
                 </UrlButton>
               </div>
             </div>
-          </ImageEvent>
+          </ImageEvent> */}
 
           {/* Project: Portfolio using Django */}
-          <ImageEvent
+          {/* <ImageEvent
             date="07/12/2019"
             className="text-center"
             text="Portfolio using Django"
@@ -838,8 +838,8 @@ const TimeLine = () => {
                 </UrlButton>
               </div>
             </div>
-          </ImageEvent>
-        </Events>
+          </ImageEvent> */}
+        {/* </Events> */}
       </Timeline>
     </div>
   );

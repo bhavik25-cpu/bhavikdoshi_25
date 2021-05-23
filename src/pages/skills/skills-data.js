@@ -134,12 +134,12 @@ export const skills = {
     //   imgSrc: L_DIGITAL_OCEAN,
     //   skillName: "Digital Ocean",
     // },
-    // {
-    //   link: "https://pages.github.com/",
-    //   imgAltText: "GitHub Pages",
-    //   imgSrc: L_GITHUB_PAGES,
-    //   skillName: "GitHub Pages",
-    // },
+   {
+      link: "https://pages.github.com/",
+      imgAltText: "GitHub Pages",
+      imgSrc: L_GITHUB_PAGES,
+      skillName: "GitHub Pages",
+    },
   ],
   programmingLanguages: [
     {
