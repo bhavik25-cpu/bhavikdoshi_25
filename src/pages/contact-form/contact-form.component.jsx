@@ -27,7 +27,7 @@ const ContactForm = () => {
               </a>
             </div>
             
-            <div className="m-2">
+            {/* <div className="m-2">
               <a href="https://github.com/bhavik25-cpu" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-dark" title="My other projects">
                   <i className="fab fa-github-square"></i> GitHub
@@ -37,7 +37,7 @@ const ContactForm = () => {
             {/* <div className="m-2">
               <a href="" target="_blank" rel="noopener noreferrer">
                 <Button id="youtube-btn" variant="outline-info" title="Lets code together!">
-                <i class="fab fa-youtube"></i> Youtube
+                <i class="fab fa-yahoo"></i> Yahoo
                 </Button>
               </a>
             </div> */}
