@@ -34,13 +34,13 @@ const ContactForm = () => {
                 </Button>
               </a>
             </div>
-            <div className="m-2">
+            {/* <div className="m-2">
               <a href="" target="_blank" rel="noopener noreferrer">
                 <Button id="youtube-btn" variant="outline-info" title="Lets code together!">
                 <i class="fab fa-youtube"></i> Youtube
                 </Button>
               </a>
-            </div>
+            </div> */}
             <div className="m-2">
               <a href="https://twitter.com/bhavikd84839669" target="_blank" rel="noopener noreferrer">
                 <Button variant="outline-info" title="Tweets are welcomed!">
