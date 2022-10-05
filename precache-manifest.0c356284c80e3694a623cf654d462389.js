@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47ef344fa51325261bc79fc668cc1cc2",
+    "revision": "4491a9a548233e33091b20cc40be081a",
     "url": "/bhavikdoshi_25/index.html"
   },
   {
-    "revision": "40b93056ed9ee67fe662",
+    "revision": "c13b089eed81f263f647",
     "url": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css"
   },
   {
-    "revision": "c1fff4502c2917f7c4ee",
-    "url": "/bhavikdoshi_25/static/js/2.29e31a49.chunk.js"
+    "revision": "2e2ea4b5b174d51debb7",
+    "url": "/bhavikdoshi_25/static/js/2.205a60fd.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/bhavikdoshi_25/static/js/2.29e31a49.chunk.js.LICENSE.txt"
+    "url": "/bhavikdoshi_25/static/js/2.205a60fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40b93056ed9ee67fe662",
-    "url": "/bhavikdoshi_25/static/js/main.df38bb79.chunk.js"
+    "revision": "c13b089eed81f263f647",
+    "url": "/bhavikdoshi_25/static/js/main.b1407df1.chunk.js"
   },
   {
     "revision": "e3b3d10ddc30976e3f85",
@@ -126,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ea10fb644c05e7c947611dae8d58a45",
     "url": "/bhavikdoshi_25/static/media/mern_tip_calc.3ea10fb6.webp"
+  },
+  {
+    "revision": "0ccedbdb9130216594a4e476f4c2de20",
+    "url": "/bhavikdoshi_25/static/media/mongoDB.0ccedbdb.png"
   },
   {
     "revision": "2985235df31b8742d893d5b7e80145c5",
