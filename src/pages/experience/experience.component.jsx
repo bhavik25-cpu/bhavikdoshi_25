@@ -62,7 +62,7 @@ const Experience = () => {
                   <Card.Text className="text-center style">
                     <strong className="body-title-style ">Backend Developer</strong>
                     <br />
-                    <strong>Technology:</strong> React JS, javascript, mysql workbench, Node JS 
+                    <strong>Technology:</strong> Node JS , React JS, javascript, mysql workbench,
                     <br />
                     <strong>Duration:</strong> May 2020- Present
                     <br/>
