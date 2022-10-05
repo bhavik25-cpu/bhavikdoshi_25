@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css",
-    "main.js": "/bhavikdoshi_25/static/js/main.a2d45190.chunk.js",
-    "main.js.map": "/bhavikdoshi_25/static/js/main.a2d45190.chunk.js.map",
+    "main.js": "/bhavikdoshi_25/static/js/main.df38bb79.chunk.js",
+    "main.js.map": "/bhavikdoshi_25/static/js/main.df38bb79.chunk.js.map",
     "runtime-main.js": "/bhavikdoshi_25/static/js/runtime-main.52e78366.js",
     "runtime-main.js.map": "/bhavikdoshi_25/static/js/runtime-main.52e78366.js.map",
     "static/js/2.29e31a49.chunk.js": "/bhavikdoshi_25/static/js/2.29e31a49.chunk.js",
     "static/js/2.29e31a49.chunk.js.map": "/bhavikdoshi_25/static/js/2.29e31a49.chunk.js.map",
     "index.html": "/bhavikdoshi_25/index.html",
-    "precache-manifest.5a0914bc0f3046e43b1bcd95f442c2eb.js": "/bhavikdoshi_25/precache-manifest.5a0914bc0f3046e43b1bcd95f442c2eb.js",
+    "precache-manifest.3f5233f9bb74b8c942b2f850678f641b.js": "/bhavikdoshi_25/precache-manifest.3f5233f9bb74b8c942b2f850678f641b.js",
     "service-worker.js": "/bhavikdoshi_25/service-worker.js",
     "static/css/main.8f630128.chunk.css.map": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css.map",
     "static/js/2.29e31a49.chunk.js.LICENSE.txt": "/bhavikdoshi_25/static/js/2.29e31a49.chunk.js.LICENSE.txt",
@@ -57,6 +57,6 @@
     "static/js/runtime-main.52e78366.js",
     "static/js/2.29e31a49.chunk.js",
     "static/css/main.8f630128.chunk.css",
-    "static/js/main.a2d45190.chunk.js"
+    "static/js/main.df38bb79.chunk.js"
   ]
 }
