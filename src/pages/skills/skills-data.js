@@ -10,7 +10,7 @@ import L_REACT_BOOTSTRAP from "../../assets/img/skills/react-bootstrap.svg";
 import L_STYLED_COMPONENTS from "../../assets/img/skills/styled-components.svg";
 import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
 import L_EXPRESS from "../../assets/img/skills/express.svg";
-import L_DJANGO from "../../assets/img/skills/django.svg";
+import L_mongoDB from "../../assets/img/skills/mongoDB.png";
 import L_FLASK from "../../assets/img/skills/flask.svg";
 import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 import L_POSTGRESQL from "../../assets/img/skills/postgresql.svg";
@@ -102,17 +102,17 @@ export const skills = {
       imgSrc: L_NODE_JS,
       skillName: "Node.js",
     },
+    {
+      link: "https://expressjs.com/",
+      imgAltText: "Express",
+      imgSrc: L_EXPRESS,
+      skillName: "Express",
+    },
     // {
-    //   link: "https://expressjs.com/",
-    //   imgAltText: "Express",
-    //   imgSrc: L_EXPRESS,
-    //   skillName: "Express",
-    // },
-    // {
-    //   link: "https://www.djangoproject.com/",
-    //   imgAltText: "Django",
-    //   imgSrc: L_DJANGO,
-    //   skillName: "Django",
+    //   link: "https://www.mongodb.com/cloud/atlas/lp/try2-hterms?utm_content=rlsapostreg&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general_retarget-brand-postreg_gic-null_apac-all_ps-all_desktop_eng_lead&utm_term=&utm_medium=cpc_paid_search&utm_ad=&utm_ad_campaign_id=14412646494&adgroup=131761134852&gclid=Cj0KCQjw1vSZBhDuARIsAKZlijRahnwUCPSQLX1Dff0LeWVtM9HzEZE03OmFzdfJvWQvQU5E9-VBco8aAkFnEALw_wcB",
+    //   imgAltText: "MongoDB",
+    //   imgSrc: L_mongoDB,
+    //   skillName: "MongoDB",
     // },
     // {
     //   link: "https://flask.palletsprojects.com/",
@@ -180,12 +180,12 @@ export const skills = {
       imgSrc: L_MSSQL,
       skillName: "mysql workbench",
     },
-    // {
-    //   link: "https://www.mongodb.com/",
-    //   imgAltText: "MongoDB",
-    //   imgSrc: L_MONGODB,
-    //   skillName: "MongoDB",
-    // },
+    {
+      link: "https://www.mongodb.com/",
+      imgAltText: "MongoDB",
+      imgSrc: L_MONGODB,
+      skillName: "MongoDB",
+    },
   ],
   versionControl: [
     {
