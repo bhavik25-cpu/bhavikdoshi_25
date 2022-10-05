@@ -64,7 +64,7 @@ const Experience = () => {
                     <br />
                     <strong>Technology:</strong> Node JS , React JS, javascript, mysql workbench,
                     <br />
-                    <strong>Duration:</strong> May 2020- Present
+                    <strong>Duration:</strong> May 2021- Present
                     <br/>
                     {/* <strong> Description </strong> */}
                     <ul className="text-left">
