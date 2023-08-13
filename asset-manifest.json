@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css",
-    "main.js": "/bhavikdoshi_25/static/js/main.bd4b819c.chunk.js",
-    "main.js.map": "/bhavikdoshi_25/static/js/main.bd4b819c.chunk.js.map",
+    "main.js": "/bhavikdoshi_25/static/js/main.fb491216.chunk.js",
+    "main.js.map": "/bhavikdoshi_25/static/js/main.fb491216.chunk.js.map",
     "runtime-main.js": "/bhavikdoshi_25/static/js/runtime-main.52e78366.js",
     "runtime-main.js.map": "/bhavikdoshi_25/static/js/runtime-main.52e78366.js.map",
-    "static/js/2.205a60fd.chunk.js": "/bhavikdoshi_25/static/js/2.205a60fd.chunk.js",
-    "static/js/2.205a60fd.chunk.js.map": "/bhavikdoshi_25/static/js/2.205a60fd.chunk.js.map",
+    "static/js/2.99e9ca0b.chunk.js": "/bhavikdoshi_25/static/js/2.99e9ca0b.chunk.js",
+    "static/js/2.99e9ca0b.chunk.js.map": "/bhavikdoshi_25/static/js/2.99e9ca0b.chunk.js.map",
     "index.html": "/bhavikdoshi_25/index.html",
-    "precache-manifest.f976bceb7e17b1efdb140441e7d56fd3.js": "/bhavikdoshi_25/precache-manifest.f976bceb7e17b1efdb140441e7d56fd3.js",
+    "precache-manifest.3bb7c78592e6dc76a236e06ae47cbb87.js": "/bhavikdoshi_25/precache-manifest.3bb7c78592e6dc76a236e06ae47cbb87.js",
     "service-worker.js": "/bhavikdoshi_25/service-worker.js",
     "static/css/main.8f630128.chunk.css.map": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css.map",
-    "static/js/2.205a60fd.chunk.js.LICENSE.txt": "/bhavikdoshi_25/static/js/2.205a60fd.chunk.js.LICENSE.txt",
+    "static/js/2.99e9ca0b.chunk.js.LICENSE.txt": "/bhavikdoshi_25/static/js/2.99e9ca0b.chunk.js.LICENSE.txt",
     "static/media/React_ToDo_List.webp": "/bhavikdoshi_25/static/media/React_ToDo_List.8897aeb6.webp",
     "static/media/Robofriends.webp": "/bhavikdoshi_25/static/media/Robofriends.9730fefc.webp",
     "static/media/Slide1.jpeg": "/bhavikdoshi_25/static/media/Slide1.1d90cfa2.jpeg",
-    "static/media/Slide2.jpeg": "/bhavikdoshi_25/static/media/Slide2.46487aaf.jpeg",
+    "static/media/Slide2.jpeg": "/bhavikdoshi_25/static/media/Slide2.e954c181.jpeg",
     "static/media/Slide3.jpg": "/bhavikdoshi_25/static/media/Slide3.9a043fce.jpg",
     "static/media/Slide4.jpeg": "/bhavikdoshi_25/static/media/Slide4.e83209d2.jpeg",
     "static/media/background.webp": "/bhavikdoshi_25/static/media/background.bf989778.webp",
@@ -56,8 +56,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.52e78366.js",
-    "static/js/2.205a60fd.chunk.js",
+    "static/js/2.99e9ca0b.chunk.js",
     "static/css/main.8f630128.chunk.css",
-    "static/js/main.bd4b819c.chunk.js"
+    "static/js/main.fb491216.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0394a6dff5a98035f7ac2d8f2a9bb6fa",
+    "revision": "a71cbfe4d3aab061e5c268891692440e",
     "url": "/bhavikdoshi_25/index.html"
   },
   {
-    "revision": "ef603812d1975dfe4076",
+    "revision": "45725fab72eca8b33160",
     "url": "/bhavikdoshi_25/static/css/main.8f630128.chunk.css"
   },
   {
-    "revision": "2e2ea4b5b174d51debb7",
-    "url": "/bhavikdoshi_25/static/js/2.205a60fd.chunk.js"
+    "revision": "cd574309b0caa3172ebe",
+    "url": "/bhavikdoshi_25/static/js/2.99e9ca0b.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/bhavikdoshi_25/static/js/2.205a60fd.chunk.js.LICENSE.txt"
+    "url": "/bhavikdoshi_25/static/js/2.99e9ca0b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef603812d1975dfe4076",
-    "url": "/bhavikdoshi_25/static/js/main.bd4b819c.chunk.js"
+    "revision": "45725fab72eca8b33160",
+    "url": "/bhavikdoshi_25/static/js/main.fb491216.chunk.js"
   },
   {
     "revision": "e3b3d10ddc30976e3f85",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bhavikdoshi_25/static/media/Slide1.1d90cfa2.jpeg"
   },
   {
-    "revision": "46487aaf45f9969fc2b80406dfa567b9",
-    "url": "/bhavikdoshi_25/static/media/Slide2.46487aaf.jpeg"
+    "revision": "e954c1810043388e1957fdd7ae840751",
+    "url": "/bhavikdoshi_25/static/media/Slide2.e954c181.jpeg"
   },
   {
     "revision": "9a043fced2600ebfa92d188d501b8cdb",
